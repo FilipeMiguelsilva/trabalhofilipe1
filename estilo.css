@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(112, 199, 177);
+    overflow: hidden;
+    font-family: Verdana;
+    color: aliceblue;
+    
+  }
+
+.img{
+    width:1000px;
+    height:500px;
+    border-radius: 10%;
+    position: relative;
+    left:0px;
+    top: 0px;
+}
+
+.div{
+
+    left: 600px;
+    top:0px;
+}
+
+.link{
+    appearance:button;
+    padding:25px 50px;
+    background-color: rgb(43, 36, 73);
+    color: rgb(248, 245, 245);
+    border: none;
+    text-decoration: none;
+    border-radius: 30%;
+    font-family: 'Gill Sans';
+    
+}
+
+h1{
+    font-size:4em ;
+}
+
+
+.box{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(43, 36, 73);
+    border: 1px solid;
+
+}
+
+.sobre{
+
+    position: relative;
+    text-align: center;
+    font-size: 2em;
+}
